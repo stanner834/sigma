@@ -21,4 +21,4 @@ detection:
     condition: keywords
 falsepositives:
     - Legitimate administrators may run these commands
-level: high
+level: medium
